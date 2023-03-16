@@ -2,6 +2,8 @@
 
 @JoseDanielAcunaSolano-2018145020
 
+[Rpositorio GitHub](https://github.com/JoDaniel1412/evaluaciones-redes)
+
 ## Explique de forma concisa, ¿En que consiste la modulación?
 
 Consiste en alterar propiedades físicas de una onda (amplitud, frecuencia o fase) con el fin de
